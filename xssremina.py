@@ -25,6 +25,7 @@ def print_banner():
 {CYAN}
 ---------------------------------------------------------------
  XSSRemina - by Haddad Al Farisi
+ Linkdln - https://id.linkedin.com/in/haddad-al-farisi-292702250
 ---------------------------------------------------------------
 {RESET}
     """
